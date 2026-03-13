@@ -64,7 +64,7 @@ print(s[::-1])    # reverse string
 a=1234
 print(len(str(a)))  # count digits
 Reverse a String (Without Built-in Function)
-a="Gauri"
+a="rachit"
 b=""
 
 for i in a:
@@ -74,4 +74,4 @@ print(b)
 
 Output
 
-iruaG
+tihcar
